@@ -5,7 +5,8 @@ Gladys communicate with Jeedom through telnet so it can control any devices conf
 
 Usefull for controlling either Z-wave, EnOcean, RFx or any protocol supported by Jeedom. 
 
-Need Gladys version >= 3.0.0.
+/!\ Development and testing in progress.
+Based on Gladys-FHEM. https://github.com/Jean-PhilippeD/gladys-fhem
 
 ## Documentation
 
