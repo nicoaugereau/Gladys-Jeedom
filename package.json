@@ -1,0 +1,17 @@
+{
+  "name": "gladys-jeedom",
+  "version": "0.0.1",
+  "description": "Gladys hooks for controlling devices through Jeedom.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicolas Augereau",
+  "keywords": [
+    "gladys",
+    "module",
+    "jeedom"
+  ],
+  "dependencies": {
+  }
+}
