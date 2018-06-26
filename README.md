@@ -48,7 +48,3 @@ Value are mapped from Jeedom to Gladys like this:
 - B0 = 3
 - BI = 4
 
-
-## Dev
-
-This module has been tested only with EnOcean Devices, it could be different for Z-Wave, if you need compatibility, feel free to push me your request (with z-wave identifier from Jeedom or any other protocol).
