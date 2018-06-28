@@ -7,9 +7,9 @@ module.exports = function(sails) {
 
 
     gladys.on('ready', function(){
-	return gladys.param.getValues(['JEEDOM_HOST','JEEDOM_PORT'])
-        .spread(function(host, port){
-		shared.getApi(host, port);
+	return gladys.param.getValues(['JEEDOM_HOST','JEEDOM_PORT','JEEDOM_TOKEN'])
+        .spread(function(host, port, token){
+		shared.getApi(host, port, token);
 	});
     });
 
