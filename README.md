@@ -33,7 +33,7 @@ Be sure to get unique naming of course.
 To install this module : 
 
 - Install the module in Gladys.
-- Change the default Jeedom parameters (JEEDOM_PORT and JEEDOM_HOST).
+- Change the default Jeedom parameters (JEEDOM_PORT, JEEDOM_HOST, JEEDOM_TOKEN).
 - Reboot Gladys.
 - Then, launch Configuration on Jeedom Module, your devices should have been automaticaly detected. 
 
