@@ -1,3 +1,5 @@
+![Dev status](https://img.shields.io/badge/status-development-orange.svg)
+
 # Gladys Jeedom
 
 Gladys hooks to provide control on your devices through Jeedom.
